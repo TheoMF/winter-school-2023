@@ -1,10 +1,14 @@
 +++
 title = ''
+layout='homepage'
 date = 2024-02-26T14:46:01+01:00
 draft = false
 +++
 
+Winter School program can be found [here]({{< ref "pages/program.md" >}})
+
 ## Installation
+
 To run the practicals, you can either use [docker](https://github.com/agimus-project/winter-school-2023#docker-installation) or install the dependencies using [conda](https://github.com/agimus-project/winter-school-2023/tree/main?tab=readme-ov-file#conda-installation-mac-os-intel-mac-os-arm-linux-x64).
 
 ## Talks and Practicals
@@ -99,7 +103,7 @@ Wilson Jallet
 
 Vladimír Petrík & Mederic Fourmy 
 
-- [slides](https://gepettoweb.laas.fr/talks/aws2023/aws_12_perception-part1__pose_estimation.pdf) 
+- [slides part 1](https://gepettoweb.laas.fr/talks/aws2023/aws_12_perception-part1__pose_estimation.pdf) [slides part 2](https://gepettoweb.laas.fr/talks/aws2023/aws_13_perception-part2__tracking.pdf)
 
 - [video](https://peertube.laas.fr/w/kZwmMC8Pht72iadnrfCtMf) 
 
@@ -117,7 +121,7 @@ Adrien Escande
 
 Justin Carpentier & Quentin Le Lidec 
 
-- [slides](https://gepettoweb.laas.fr/talks/aws2023/aws_15_sim3-part1.pdf) 
+- [slides part 1](https://gepettoweb.laas.fr/talks/aws2023/aws_15_sim3-part1.pdf) [slides part 2](https://gepettoweb.laas.fr/talks/aws2023/aws_16_sim3-part2.pdf)
 
 - [video](https://peertube.laas.fr/w/rsLA7kymGpCV13jBSLh1E3) 
 
