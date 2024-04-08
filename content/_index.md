@@ -126,3 +126,13 @@ Justin Carpentier & Quentin Le Lidec
 - [video](https://peertube.laas.fr/w/rsLA7kymGpCV13jBSLh1E3) 
 
 - [practicals](https://github.com/agimus-project/winter-school-2023/tree/main/simulation/sim3_contact_dynamics)
+
+## Supported by ...
+
+![Scenario 1: Across columns](/eurobin_small.png)
+
+![Scenario 1: Across columns](/agimus_small.png)
+
+![Scenario 1: Across columns](/laas_dpt.png)
+
+![Scenario 1: Across columns](/eu_320.png)
